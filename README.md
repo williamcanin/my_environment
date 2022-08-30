@@ -24,7 +24,7 @@ No momento estou usando Tiling, com os seguintes componentes:
 
 ## Terminal
 
-Uso o **Terminator** já faz uns anos, me facilita muito.
+Uso o **Terminator** já faz uns anos, me facilita muito. Junto uso o ZSH com o Starship de tema.
 
 ![](https://raw.githubusercontent.com/williamcanin/my_environment/main/screenshot/terminal.jpg)
 
