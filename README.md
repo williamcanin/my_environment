@@ -2,16 +2,16 @@
 
 Olá, tudo bem? Espero que sim :)
 
-Neste meu repo você pode saber como é o estilo do ambiente da minha máquina.
+Neste meu repo você pode saber como é o estilo do ambiente do meu sistema operacional (Arch Linux).
 Qual "Desktop Environment"; Editores; Gerenciadores de arquivos; etc, eu uso.
 
-Vou tentar deixar esse repo atualizado, onde que, sempre que modificar meu ambiente, postarei aqui (exeto wallpaper).
+Vou tentar deixar esse repo atualizado, onde que, sempre que modificar meu ambiente, postarei aqui (exceto modificações de wallpaper hehe).
 
 No momento estou usando um "Tiling Window Manager", o **i3** com os seguintes componentes:
 
 * i3-gaps
 * picom
-* polybar
+* polybar (com Font Awesome)
 * conky
 * rofi
 * nitrogen
