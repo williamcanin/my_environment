@@ -23,9 +23,10 @@ No momento estou usando um "Tiling Window Manager", o **i3** com os seguintes co
 
 ## Terminal
 
-Uso o **Terminator** já faz uns anos, me facilita muito. Junto uso o ZSH com o Starship de tema.
+Uso o **Terminator** já faz uns anos, me facilita muito a função de dividir terminais. Junto com ele, uso o ZSH com o Starship de tema.
 
 ![](https://raw.githubusercontent.com/williamcanin/my_environment/main/screenshot/terminal.jpg)
+
 
 ## Gerenciador de Arquivos
 
