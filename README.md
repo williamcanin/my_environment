@@ -7,9 +7,8 @@ Qual "Desktop Environment"; Editores; Gerenciadores de arquivos; etc, eu uso.
 
 Vou tentar deixar esse repo atualizado, onde que, sempre que modificar meu ambiente, postarei aqui (exeto wallpaper).
 
-No momento estou usando Tiling, com os seguintes componentes:
+No momento estou usando um "Tiling Window Manager", o **i3** com os seguintes componentes:
 
-* i3
 * i3-gaps
 * picom
 * polybar
@@ -50,6 +49,6 @@ Bom, esse dispensa aprensentações não é mesmo?! Pra mim é o melhor atualmen
 
 Uso o **Rofi** para pesquisar e iniciar meus programas instalador, leve e simples.
 
-* ![](https://raw.githubusercontent.com/williamcanin/my_environment/main/screenshot/finder.jpg)
+![](https://raw.githubusercontent.com/williamcanin/my_environment/main/screenshot/finder.jpg)
 
 
