@@ -51,4 +51,6 @@ Uso o **Rofi** para pesquisar e iniciar meus programas instalador, leve e simple
 
 ![](https://raw.githubusercontent.com/williamcanin/my_environment/main/screenshot/finder.jpg)
 
+> Nota: Todas essas aplicações listadas acima, estão modificadas em seus arquivos de configuração.
+
 
